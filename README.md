@@ -2,7 +2,7 @@ README
 ======
 
 
-Kata sobre DDD (Juego de Bolos) de Uncle Bob
+Kata sobre DDD (Juego de Bolos) de Uncle Bob. Es un notebook en Scala
 
 
 ## Pasos:
